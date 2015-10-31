@@ -28,7 +28,7 @@ ShortcutItem
 处理点击item的事件
 
 
-Peek and PopShortcutItem
+Peek and Pop
 -------------
 ![enter image description here](https://github.com/CorzFree/iOS9_3DTouchDemo/blob/master/Touch3DDemo/IMG_0040.PNG?raw=true)
 
