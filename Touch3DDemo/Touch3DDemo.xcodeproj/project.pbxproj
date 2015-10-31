@@ -16,6 +16,9 @@
 		78BAFAB21BE3CB2A00729D0E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78BAFAB01BE3CB2A00729D0E /* LaunchScreen.storyboard */; };
 		78BAFABD1BE3CB2A00729D0E /* Touch3DDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 78BAFABC1BE3CB2A00729D0E /* Touch3DDemoTests.m */; };
 		78BAFAC81BE3CB2A00729D0E /* Touch3DDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 78BAFAC71BE3CB2A00729D0E /* Touch3DDemoUITests.m */; };
+		78DDCBA31BE4BAB700AA1BFA /* IMG_0037.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 78DDCBA01BE4BAB700AA1BFA /* IMG_0037.PNG */; };
+		78DDCBA41BE4BAB700AA1BFA /* IMG_0040.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 78DDCBA11BE4BAB700AA1BFA /* IMG_0040.PNG */; };
+		78DDCBA51BE4BAB700AA1BFA /* info.png in Resources */ = {isa = PBXBuildFile; fileRef = 78DDCBA21BE4BAB700AA1BFA /* info.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +57,9 @@
 		78BAFAC31BE3CB2A00729D0E /* Touch3DDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Touch3DDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		78BAFAC71BE3CB2A00729D0E /* Touch3DDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Touch3DDemoUITests.m; sourceTree = "<group>"; };
 		78BAFAC91BE3CB2A00729D0E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		78DDCBA01BE4BAB700AA1BFA /* IMG_0037.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_0037.PNG; sourceTree = SOURCE_ROOT; };
+		78DDCBA11BE4BAB700AA1BFA /* IMG_0040.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IMG_0040.PNG; sourceTree = SOURCE_ROOT; };
+		78DDCBA21BE4BAB700AA1BFA /* info.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = info.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +110,9 @@
 		78BAFAA11BE3CB2A00729D0E /* Touch3DDemo */ = {
 			isa = PBXGroup;
 			children = (
+				78DDCBA01BE4BAB700AA1BFA /* IMG_0037.PNG */,
+				78DDCBA11BE4BAB700AA1BFA /* IMG_0040.PNG */,
+				78DDCBA21BE4BAB700AA1BFA /* info.png */,
 				78BAFAA51BE3CB2A00729D0E /* AppDelegate.h */,
 				78BAFAA61BE3CB2A00729D0E /* AppDelegate.m */,
 				78BAFAA81BE3CB2A00729D0E /* ViewController.h */,
@@ -250,8 +259,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				78BAFAB21BE3CB2A00729D0E /* LaunchScreen.storyboard in Resources */,
+				78DDCBA31BE4BAB700AA1BFA /* IMG_0037.PNG in Resources */,
 				78BAFAAF1BE3CB2A00729D0E /* Assets.xcassets in Resources */,
+				78DDCBA41BE4BAB700AA1BFA /* IMG_0040.PNG in Resources */,
 				78BAFAAD1BE3CB2A00729D0E /* Main.storyboard in Resources */,
+				78DDCBA51BE4BAB700AA1BFA /* info.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
