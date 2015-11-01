@@ -1,4 +1,3 @@
-# iOS9_3DTouchDemo
 3D Touch 学习
 ===================
 
